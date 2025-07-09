@@ -1,34 +1,25 @@
 ## Hi there 👋 I am Brandon
 
-I'm an aspiring Data Engineer with a passion for building robust ELT/ETL data pipelines and working with both structured and unstructured data. My expertise lies in designing and implementing data lakes and warehouses, ensuring data integrity, scalability, and performance.
+I’m a Full-Stack Software Engineer passionate about crafting end-to-end web applications and real-time data systems. I thrive on turning complex requirements into performant, maintainable code.
 
 ### 🌟 What I Do
-- **Data Pipelines:** Skilled in constructing efficient ELT/ETL pipelines to streamline data processing.
-- **Data Architecture:** Proficient in data lakes and warehouse architecture, ensuring optimal data storage and retrieval.
-- **Programming:** Experienced in SQL, NoSQL, Python, C++/C, and JavaScript, applying them to solve complex data challenges.
+- **Frontend Development:** Build responsive SPAs with React, Shadcn-UI, Material-UI and TypeScript.  
+- **Backend Development:** Design and implement RESTful APIs and microservices using Node.js/Express and .NET Core.  
+- **Database Design:** Model and optimize both SQL (PostgreSQL, MySQL) and NoSQL (MongoDB, Redis) databases.  
+- **Real-Time Systems:** Integrate WebSockets and worker threads for live data processing and notifications.  
+- **DevOps & CI/CD:** Automate builds and deployments with GitHub Actions, Docker, AWS App Runner/ECS, and Lambda.
 
 ### 🔧 Tools I Use
-- **Orchestration:** Apache Airflow
-- **Distributed Systems:** Micro Fabric
-- **Cloud Platforms:** Azure, AWS
+- **Languages:** JavaScript/TypeScript, Python, C#, C++  
+- **Frameworks & Libraries:** React, Node.js, Express.js, .NET Core, Shadcn-UI, Material-UI  
+- **Databases & Cache:** MongoDB, PostgreSQL, MySQL, Redis  
+- **Cloud & DevOps:** AWS (App Runner, ECS Fargate, Lambda, S3, API Gateway), Docker, GitHub Actions, Azure  
+- **Testing & Monitoring:** Jest, Supertest, Prometheus, Grafana  
 
 ### 🎯 Future Goals
-- Continue to grow in the field of data engineering, exploring new technologies and methodologies to handle large-scale data systems.
+- Deepen expertise in cloud-native and serverless architectures.  
+- Contribute to open-source full-stack projects and developer tooling.  
+- Explore scalable event-driven data pipelines and real-time analytics.
 
-### 💬 Let's Connect
-Feel free to reach out if you want to discuss data engineering, collaborate on projects, or just chat about tech!
-
-<!--
-**BinhNg2910/BinhNg2910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Let’s Connect
+I’m always up for collaboration, code reviews, or a good tech chat—feel free to reach out!
