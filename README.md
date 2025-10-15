@@ -4,7 +4,7 @@ I’m a Full-Stack Software Engineer passionate about crafting end-to-end web ap
 
 ### 🌟 What I Do
 - **Frontend Development:** Build responsive SPAs with React, Shadcn-UI, Material-UI and TypeScript.  
-- **Backend Development:** Design and implement RESTful APIs and microservices using Node.js/Express and .NET Core.  
+- **Backend Development:** Design and implement RESTful APIs and microservices using Node.js/Express, Java SpringBoot and  C# .NET Core.  
 - **Database Design:** Model and optimize both SQL (PostgreSQL, MySQL) and NoSQL (MongoDB, Redis) databases.  
 - **Real-Time Systems:** Integrate WebSockets and worker threads for live data processing and notifications.  
 - **DevOps & CI/CD:** Automate builds and deployments with GitHub Actions, Docker, AWS App Runner/ECS, and Lambda.
